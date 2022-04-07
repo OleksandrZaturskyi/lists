@@ -1,3 +1,3 @@
 # Lists
 
-https://github.com/rust-unofficial/too-many-lists
+Book: https://github.com/rust-unofficial/too-many-lists
