@@ -141,7 +141,7 @@ mod test {
     fn peek() {
         let mut list = List::new();
         assert_eq!(list.peek(), None);
-        assert_eq!(list.peek(), None);
+        assert_eq!(list.peek_mut(), None);
 
         list.push(1);
         list.push(2);
